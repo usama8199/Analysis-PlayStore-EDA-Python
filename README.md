@@ -1,5 +1,4 @@
 # Analysis-PlayStore-EDA
-EDA on Playstore dataset
 
 ## Problem Statement
 
