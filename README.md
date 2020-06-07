@@ -1,5 +1,9 @@
 # Analysis-PlayStore-EDA
 
+## Overview
+- Cleaned the data using python libraries like numpy and pandas
+- Performed EDA and statistical analysis using numpy, pandas, matplotlib and seaborn
+
 ## Problem Statement
 
 Google Play Store team is about to launch a new feature where in certain apps that are
@@ -12,9 +16,11 @@ factors together? Analyze the data and present your insights in a format consuma
 business – the final output of the analysis would be presented to business as insights with
 supporting data/visualizations.
 
+## Dataset
+![](Data_Logo.jpg) 
+
+
 ## Video of the Analysis (Click on the image)
 
 [<img src="https://img.youtube.com/vi/c_mXNsHDCRQ/maxresdefault.jpg" width="50%">](https://youtu.be/c_mXNsHDCRQ)
 
-## Dataset
-![](Data_Logo.jpg) 
