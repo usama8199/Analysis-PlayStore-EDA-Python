@@ -21,6 +21,5 @@ supporting data/visualizations.
 
 
 ## Video of the Analysis (Click on the image)
-
 [<img src="https://img.youtube.com/vi/c_mXNsHDCRQ/maxresdefault.jpg" width="50%">](https://youtu.be/c_mXNsHDCRQ)
 
